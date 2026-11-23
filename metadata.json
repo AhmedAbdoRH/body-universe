@@ -1,0 +1,6 @@
+{
+  "name": "المحاكي الهرموني التفاعلي",
+  "description": "محاكي تفاعلي لمنظومة الهرمونات والقوى الخمس والسيناريوهات النفسية والجسدية مرتبط بملف JSON قابل للتحديث الفوري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
